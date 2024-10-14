@@ -5,7 +5,7 @@
 #'   of working with standardized names or texts.Review:
 #'   https://cran.r-project.org/web/packages/MazamaSpatialUtils/vignettes/MazamaSpatialUtils.html
 #'
-#' @param string Characters vector
+#' @param string Characters vector.
 #'
 #' @examples
 #' library(innovar)
